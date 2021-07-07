@@ -38,7 +38,7 @@ Once as I was working as a Marketing Specialist a coworker told me as a joke "yo
                                                                                    
 <a href = 'https://www.linkedin.com/in/silviaespanagil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/fischesil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/silviaespanagil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  
+<a href = 'https://www.github.com/silviaespanagil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a><a href = 'https://dev.to/silviaespanagil'> <img width = '32px' align= 'center' src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"/></a>  
 
 
 
