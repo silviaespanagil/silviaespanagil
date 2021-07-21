@@ -6,7 +6,7 @@
 # Hola mundo!👋
 
 
-My name is Silvia España -yes, just like the country- and I'm a Junior Front End Developer. Welcome to my Git.✨ 
+My name is Silvia España -yes, just like the country 🤭- and I'm a Junior Front End Developer. Welcome to my Git.✨ 
 
 You may refer to me as she, her.
 
@@ -19,7 +19,7 @@ Once as I was working as a Marketing Specialist a coworker told me as a joke "yo
 
 🌱 Right now I'm  looking for my first experience in IT as a Front End Developer
 
-⌨️ Working on my Front End Portfolio and the #Javascript30 challenge
+⌨️ Working on my [Front End Portfolio](https://silviaespanagil.github.io/portfolio/) and the #Javascript30 challenge
 
 👭 Collaborating on a Web Application for a Vegan Restaurant Finder
 
