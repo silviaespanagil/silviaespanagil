@@ -19,13 +19,13 @@ Once as I was working as a Marketing Specialist a coworker told me as a joke "yo
 
 🌱 Right now I'm  looking for my first experience in IT as a Front End Developer
 
-⌨️ Working on my [Front End Portfolio](https://silviaespanagil.github.io/portfolio/) and the #Javascript30 challenge
+⌨️ Just did my [Front End Portfolio](https://silviaespanagil.github.io/portfolio/)
 
 👭 Collaborating on a Web Application for a Vegan Restaurant Finder
 
-💻 Want to pro the basics: CSS, JS and React
+💻 Want to pro the basics: CSS, JS and React 
 
-✏️ Want to learn about testing and Angular 
+✏️ Want to learn Angular and Typescript
 
 📖 Read my thoughts in [my Dev.to blog](https://dev.to/silviaespanagil)
 
