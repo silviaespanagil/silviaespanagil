@@ -25,7 +25,7 @@ Once as I was working as a Marketing Specialist a coworker told me as a joke "yo
 
 💻 Want to pro the basics: CSS, JS and React 
 
-✏️ Want to learn Angular and Typescript
+✏️ Want to learn Angular and Typescript. I'm introducing myself to Redux.
 
 📖 Read my thoughts in [my Dev.to blog](https://dev.to/silviaespanagil)
 
