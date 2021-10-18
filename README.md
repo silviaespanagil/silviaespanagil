@@ -6,7 +6,7 @@
 # Hola mundo!👋
 
 
-My name is Silvia España -yes, just like the country 🤭- and I'm a Junior Front End Developer. Welcome to my Git.✨ 
+My name is Silvia España -yes, just like the country 🤭- and I'm a Junior Front End Developer and Mobile Developer. Welcome to my Git.✨ 
 
 You may refer to me as she, her.
 
@@ -15,7 +15,7 @@ You may refer to me as she, her.
 
 ### About me 👩‍💻
 
-Once as I was working as a Marketing Specialist a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started Adalab's bootcamp.
+Once as I was working as a Marketing Specialist a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started Adalab's bootcamp where I learned a lot about Front End. Right now I'm working with the dreamy team of Wefox as a Jr. Mobile Engineer in Swift
 
 🌱 Right now I'm  looking for my first experience in IT as a Front End Developer
 
@@ -25,7 +25,7 @@ Once as I was working as a Marketing Specialist a coworker told me as a joke "yo
 
 💻 Want to pro the basics: CSS, JS and React 
 
-✏️ Want to learn Angular and Typescript. I'm introducing myself to Redux.
+✏️ Currently learning Swift
 
 📖 Read my thoughts in [my Dev.to blog](https://dev.to/silviaespanagil)
 
