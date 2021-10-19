@@ -17,7 +17,7 @@ You may refer to me as she, her.
 
 Once as I was working as a Marketing Specialist a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started Adalab's bootcamp where I learned a lot about Front End. Right now I'm working with the dreamy team of Wefox as a Jr. Mobile Engineer in Swift
 
-🌱 Right now I'm  looking for my first experience in IT as a Front End Developer
+🌱 Right now I'm working as a Jr. Mobile Developer and in a personal project for a Vegan Restaurant Searcher App
 
 ⌨️ Just did my [Front End Portfolio](https://silviaespanagil.github.io/portfolio/)
 
