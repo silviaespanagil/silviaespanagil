@@ -1,8 +1,7 @@
 <div align="center">
-<img width="100%" " src="https://raw.githubusercontent.com/silviaespanagil/silviaespanagil/main/Naranja%20Negro%20Pr%C3%A1cticas%20Aplicaci%C3%B3n%20LinkedIn%20Banner.gif" alt="cover" />
+<img width="100%" " src="https://user-images.githubusercontent.com/81619759/159035148-29dd1982-d71e-474f-9355-2a0cbe862e84.gif" alt="cover" />
 </div>
- 
- 
+
 # Hola mundo!👋
 
 
@@ -19,15 +18,9 @@ Once as I was working as a Marketing Specialist a coworker told me as a joke "yo
 
 🌱 Right now I'm working as a Jr. Mobile Developer and in a personal project for a Vegan Restaurant Searcher App
 
-⌨️ Just did my [Front End Portfolio](https://silviaespanagil.github.io/portfolio/)
+✏️ Currently learning Swift and would love to learn Kotlin
 
-👭 Collaborating on a Web Application for a Vegan Restaurant Finder
-
-💻 Want to pro the basics CSS, JS and React and keep diving in the Mobile world
-
-✏️ Currently learning Swift
-
-📖 Read my thoughts in [my Dev.to blog](https://dev.to/silviaespanagil)
+📖 Read my thoughts -and a little bit of code- in my [Dev.to blog](https://dev.to/silviaespanagil)
 
 
 ### Languages and Tools that I've worked with: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
