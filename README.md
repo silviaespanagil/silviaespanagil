@@ -18,7 +18,7 @@ Once as I was working as a Marketing Specialist a coworker told me as a joke "yo
 
 🌱 Right now I'm working as a Jr. Mobile Developer and in a personal project for a Vegan Restaurant Searcher App
 
-✏️ Currently learning Swift and would love to learn Kotlin
+✏️ Currently learning Swift and at some point I would love to take a step to Kotlin too
 
 📖 Read my thoughts -and a little bit of code- in my [Dev.to blog](https://dev.to/silviaespanagil)
 
