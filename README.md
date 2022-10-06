@@ -5,7 +5,7 @@
 # Hola mundo!👋
 
 
-My name is Silvia España -yes, just like the country 🤭- and I'm a Junior Front End Developer and Mobile Developer. Welcome to my Git.✨ 
+My name is Silvia España -yes, just like the country 🤭- and I'm a Junior Mobile Developer. Welcome to my Git.✨ 
 
 You may refer to me as she, her.
 
