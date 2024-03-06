@@ -14,11 +14,9 @@ You may refer to me as she, her.
 
 ### About me 👩‍💻
 
-Once as I was working as a Marketing Specialist a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started Adalab's bootcamp where I learned a lot about Front End. Right now I'm working with the dreamy team of Wefox as a Jr. Mobile Engineer in Swift
+Once as I was working as a Marketing Specialist a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started Adalab's bootcamp where I learned a lot about Front End. Right now I'm working at Wefox as a Mobile Engineer in Swift
 
 🌱 Right now I'm working as a Mobile Developer and do lots of mini projects to practice my dev skills
-
-✏️ Currently learning Swift and at some point I would love to take a step to Kotlin too
 
 📖 Read my thoughts -and a little bit of code- in my [Dev.to blog](https://dev.to/silviaespanagil)
 
