@@ -14,9 +14,11 @@ You may refer to me as she, her.
 
 ### About me 👩‍💻
 
-Once as I was working as a Marketing Specialist a coworker told me as a joke "you should learn to code and join the team" and well...that was an inception. The seed of the idea grow in me until one day I said "this is the time!" and started Adalab's bootcamp where I learned a lot about Front End. Right now I'm working at Wefox as a Mobile Engineer in Swift
+Once, while working as a Marketing Specialist, a colleague jokingly suggested, 'You should learn to code and join the team.', and well...that was an inception. Now, three years later, I've fully embraced that suggestion and immersed myself in the world of iOS development. 
 
-🌱 Right now I'm working as a Mobile Developer and do lots of mini projects to practice my dev skills
+My journey has been marked by a dedication to optimizing applications using native development tools, ensuring the delivery of high-quality products. In addition, I am deeply committed to sharing my knowledge, serving as a mentor for women entering the tech industry and delivering talks at industry events. 
+
+Beyond the tech sphere, you can find me diving into books, exploring new video games, and embarking on outdoor adventures with my family and our dogs.
 
 📖 Read my thoughts -and a little bit of code- in my [Dev.to blog](https://dev.to/silviaespanagil)
 
