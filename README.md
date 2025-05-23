@@ -76,9 +76,6 @@ I'm really into documenting things, as you may see in my readmes, but I also lov
 </tr>
 </table>
 
-<img width="985" alt="image" src="" />
-
-
 ### My socials 💻
                                                                                    
 <a href = 'https://www.linkedin.com/in/silviaespanagil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
