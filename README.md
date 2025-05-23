@@ -34,16 +34,49 @@ Beyond the tech sphere, you can find me diving into books, exploring new video g
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 </div>
 
-SwiftUI, Combine, CoreData, Realm, ViewInspector, Launchdarkly
+SwiftUI, Combine, CoreData, Realm, ViewInspector, Launchdarkly, Apollo
 
 ### My blog 📖 
 I'm really into documenting things, as you may see in my readmes, but I also love to write down articles. You can read my thoughts -and a little bit of my code- in my [Dev.to blog](https://dev.to/silviaespanagil)
 
 ### My talks 💬​
 
-| [![Imagen1](https://github.com/user-attachments/assets/9abd1529-b826-4dc4-9944-f257cd1d9cf5)](https://www.youtube.com/watch?v=P3E34EDife4) | [![Imagen2](https://github.com/user-attachments/assets/f96edc1d-d340-450d-bd2c-1c1341119e40)](https://www.youtube.com/watch?v=TgyVTgTKZfI) | [![Imagen3](https://github.com/user-attachments/assets/477c5228-a214-452e-a021-338f42424c26)](https://www.youtube.com/watch?v=jWpYHoTZyRU) |
-|:--:|:--:|:--:|
-| **Poder puedo pero no lo haré...**<br>T3chFest<br>2024<br>[See talk](https://www.youtube.com/watch?v=P3E34EDife4) | **De Senior a Junior: una guía de supervivencia**<br>SoftwareCrafters Barcelona<br>2023<br>[See talk](https://www.youtube.com/watch?v=TgyVTgTKZfI) | **I Think, Therefore I Code: An Introduction to Pseudocode**<br>Codeland by CodeNewbie and Dev.to<br>2022<br>[See talk](https://www.youtube.com/watch?v=jWpYHoTZyRU) |
+<table>
+<tr>
+<td width="50%" align="center">
+
+[![Imagen1](https://github.com/user-attachments/assets/9abd1529-b826-4dc4-9944-f257cd1d9cf5)](https://www.youtube.com/watch?v=P3E34EDife4)
+
+**Poder puedo pero no lo haré...**<br>T3chFest<br>2024<br>[See talk](https://www.youtube.com/watch?v=P3E34EDife4)
+
+</td>
+<td width="50%" align="center">
+
+[![Imagen2](https://github.com/user-attachments/assets/f96edc1d-d340-450d-bd2c-1c1341119e40)](https://www.youtube.com/watch?v=TgyVTgTKZfI)
+
+**De Senior a Junior: una guía de supervivencia**<br>SoftwareCrafters Barcelona<br>2023<br>[See talk](https://www.youtube.com/watch?v=TgyVTgTKZfI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+[![Imagen3](https://github.com/user-attachments/assets/477c5228-a214-452e-a021-338f42424c26)](https://www.youtube.com/watch?v=jWpYHoTZyRU)
+
+**I Think, Therefore I Code: An Introduction to Pseudocode**<br>Codeland by CodeNewbie and Dev.to<br>2022<br>[See talk](https://www.youtube.com/watch?v=jWpYHoTZyRU)
+
+</td>
+<td width="50%" align="center">
+
+[![Imagen4](https://github.com/user-attachments/assets/701a1c65-b32a-4731-ae51-34353ee52d57)
+
+**Mentorías que Transforman: Inclusión y diversidad en el mundo tech**<br>TofuConf<br><br>2024<br>[See talk](https://www.youtube.com/watch?v=-roLRgN2IsI&list=PLrn69hTK5FBw-5f4Pr4hMGz3PFT5vWfs9&index=4)
+
+</td>
+</tr>
+</table>
+
+<img width="985" alt="image" src="" />
 
 
 ### My socials 💻
