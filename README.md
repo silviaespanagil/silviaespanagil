@@ -69,7 +69,7 @@ I'm really into documenting things, as you may see in my readmes, but I also lov
 
 [![Imagen4](https://github.com/user-attachments/assets/701a1c65-b32a-4731-ae51-34353ee52d57)
 
-**Mentorías que Transforman: Inclusión y diversidad en el mundo tech**<br>TofuConf<br><br>2024<br>[See talk](https://www.youtube.com/watch?v=-roLRgN2IsI&list=PLrn69hTK5FBw-5f4Pr4hMGz3PFT5vWfs9&index=4)
+**Mentorías que Transforman: Inclusión y diversidad en el mundo tech**<br>TofuConf<br>2024<br>[See talk](https://www.youtube.com/watch?v=-roLRgN2IsI&list=PLrn69hTK5FBw-5f4Pr4hMGz3PFT5vWfs9&index=4)
 
 </td>
 </tr>
