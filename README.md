@@ -40,7 +40,6 @@ SwiftUI, Combine, CoreData, Realm, ViewInspector, Launchdarkly, Apollo
 I'm really into documenting things, as you may see in my readmes, but I also love to write down articles. You can read my thoughts -and a little bit of my code- in my [Dev.to blog](https://dev.to/silviaespanagil)
 
 ### My talks 💬​
-
 <table>
 <tr>
 <td width="50%" align="center">
@@ -76,8 +75,10 @@ I'm really into documenting things, as you may see in my readmes, but I also lov
 </tr>
 </table>
 
-### My socials 💻
-                                                                                   
+### My activity 🌱
+You may not see a ton of green here but I'm currently working full time with [a secondary account](https://github.com/silviaespanag)
+
+### My socials 💻                                                                                  
 <a href = 'https://www.linkedin.com/in/silviaespanagil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/fischesil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/silviaespanagil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a><a href = 'https://dev.to/silviaespanagil'> <img width = '32px' align= 'center' src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"/></a>  
